@@ -1,4 +1,4 @@
-# ArcenTVCRocket
+# TVC Rocket
 A repository dedicated to the documentation of a model TVC rocket
 
 Goals (Short Term):
