@@ -10,5 +10,5 @@ To propusively land by throttling a solid rocket motor and airbraking on a launc
 
 Goals (Long Term):
 To utilise a miniature liquid engine in order for throttling and thurst vectoring and replicate
-resuluts from Mid term goals, just with liquid engines (Landing on a launch tower).
+results from Mid term goals, just with liquid engines (Landing on a launch tower).
 
