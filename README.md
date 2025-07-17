@@ -6,10 +6,9 @@ To achieve actively stabilised thurst vector controlled flight
 To achieve an alitutude of at least 500m or 1500 feet
 
 Goals (Mid Term):
-To propusively land by throttling a solid rocket motor
-To achieve an alitude of 2000m (High Power Rocketry)
+To propusively land by throttling a solid rocket motor and airbraking on a launch tower (Falcon 9 inspired)
 
 Goals (Long Term):
-To utilise a miniature liquid engine in order for throttling and thurst vectoring 
-To achieve an altitude of 10000m
+To utilise a miniature liquid engine in order for throttling and thurst vectoring and replicate
+resuluts from Mid term goals, just with liquid engines (Landing on a launch tower).
 
